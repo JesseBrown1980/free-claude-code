@@ -4,3 +4,7 @@
 *.hbi text eol=lf
 *.sha256 text eol=lf
 docs/asolaria/free-model-possibility-ladder/* text eol=lf
+# Free model possibility receipts: byte identity matters.
+ASOLARIA-RECEIPTS/free-model-possibility-ladder-20260705/* text eol=lf
+# Asolaria sealed receipt artifacts: byte identity matters.
+ASOLARIA-RECEIPTS/chain-language-grid-origin-20260705/* text eol=lf
