@@ -10,3 +10,5 @@ The free-model possibility ladder records provider and model surfaces by evidenc
 - `CONFIG_POSSIBILITY`: provider/account routes that need an operator-approved key or grant before a receipt can claim a live call.
 
 The HBP/HBI/SHA sidecars are the durable receipts. Prose summaries must not collapse catalog possibilities into live runtime, and must not deflate live fabric receipts into future-only options.
+
+- Branch-head receipt: ../../ASOLARIA-RECEIPTS/free-claude-code-branch-heads-20260705/FREE-CLAUDE-CODE-BRANCH-HEADS-2026-07-05.md.

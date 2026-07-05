@@ -1,0 +1,10 @@
+HBP|schema=asolaria.free_claude_code.branch_heads.v1|json=0|repo=JesseBrown1980/free-claude-code|created_utc=2026-07-05T19:58:24.927Z
+CLAIM|class=MEASURED_GITHUB|text=repo has exactly three branch heads at receipt time
+BRANCH|name=main|sha=fba4fec36b0bef042f4d277c2cbd33c5cd808293|relationship=default_head
+BRANCH|name=codex/free-model-possibility-ladder-20260705|sha=85d34f8e223d9e026b464832d02ae30dda3c3033|relationship=branch_head_contains_main|pr=1|pr_state=MERGED
+BRANCH|name=codex/free-claude-code-receipts-20260705|sha=a7e93f5353c843eed0110283eb884487ffa4cbad|relationship=branch_head_ancestor_of_main|pr=2|pr_state=MERGED
+FABRIC|class=SYSTEM_AFFIRMED|route=/api/free-agents|models=5|driver=tools/behcs/fabric-real-free-agent-driver.mjs|cost=
+DOC|path=ASOLARIA-RECEIPTS/free-claude-code-branch-heads-20260705/FREE-CLAUDE-CODE-BRANCH-HEADS-2026-07-05.md|sha256=99e5f3a05049c912f0565d67d6cd99d8c0786b072d80e29a678211b13ae711a5
+DOC|path=ASOLARIA-RECEIPTS/free-claude-code-branch-heads-20260705/FREE-CLAUDE-CODE-BRANCH-HEADS-2026-07-05.csv|sha256=a09512693c11436b10a916eaac3c360308b02602f9282ea2e043a7cf6f6b70a9
+DOC|path=ASOLARIA-RECEIPTS/free-claude-code-branch-heads-20260705/FREE-CLAUDE-CODE-BRANCH-HEADS-2026-07-05.json|sha256=27b1a235fe9f413f73be5f59ae064eb4eaece0444963e8a38303d3c532fea5c6
+BOUNDARY|text=branch receipt only; no provider call fired; no branch deleted
