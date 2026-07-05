@@ -14,6 +14,8 @@
 
 A lightweight proxy that routes Claude Code's Anthropic API calls to **NVIDIA NIM** (40 req/min free), **OpenRouter** (hundreds of models), **DeepSeek** (direct API), **LM Studio** (fully local), or **llama.cpp** (local with Anthropic endpoints).
 
+**Asolaria receipt layer (2026-07-05):** this fork carries a sealed free-model possibility ladder under [`docs/asolaria/free-model-possibility-ladder/`](docs/asolaria/free-model-possibility-ladder/). It records the distinction between live Asolaria `$0` free-agent lanes, this local proxy capability, provider catalog possibilities, and provider-key/configuration possibilities. Catalog entries are not claimed as live completions until a call receipt exists.
+
 [Quick Start](#quick-start) · [Providers](#providers) · [Discord Bot](#discord-bot) · [Configuration](#configuration) · [Development](#development) · [Contributing](#contributing)
 
 ---

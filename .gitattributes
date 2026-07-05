@@ -1,0 +1,6 @@
+# Asolaria receipt artifacts: byte identity matters. Pin LF before sealing.
+.gitattributes text eol=lf
+*.hbp text eol=lf
+*.hbi text eol=lf
+*.sha256 text eol=lf
+docs/asolaria/free-model-possibility-ladder/* text eol=lf
