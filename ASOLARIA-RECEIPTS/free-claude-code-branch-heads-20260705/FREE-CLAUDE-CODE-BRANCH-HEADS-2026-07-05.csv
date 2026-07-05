@@ -1,0 +1,4 @@
+"branch","sha","relationship_to_main","pr","pr_state","commit_date","subject","note"
+"main","fba4fec36b0bef042f4d277c2cbd33c5cd808293","default_head","default","default","2026-07-05T16:53:14-03:00","Merge pull request #1 from JesseBrown1980/codex/free-model-possibility-ladder-20260705","current public default branch"
+"codex/free-model-possibility-ladder-20260705","85d34f8e223d9e026b464832d02ae30dda3c3033","branch_head_ancestor_of_main","#1","MERGED","2026-07-05T16:52:37-03:00","Merge branch 'main' into codex/free-model-possibility-ladder-20260705","free-model ladder branch retained after merged PR; branch head includes an extra merge from main"
+"codex/free-claude-code-receipts-20260705","a7e93f5353c843eed0110283eb884487ffa4cbad","branch_head_ancestor_of_main","#2","MERGED","2026-07-05T15:51:13-03:00","Publish free model possibility ladder receipts","receipt branch retained after merged PR"

@@ -1,0 +1,39 @@
+{
+  "schema": "asolaria.free_claude_code.branch_heads.v1",
+  "created_utc": "2026-07-05T19:58:24.927Z",
+  "repo": "https://github.com/JesseBrown1980/free-claude-code",
+  "evidence_class": "MEASURED_GITHUB",
+  "branch_count": 3,
+  "branches": [
+    {
+      "branch": "main",
+      "sha": "fba4fec36b0bef042f4d277c2cbd33c5cd808293",
+      "relationship_to_main": "default_head",
+      "pr": "default",
+      "pr_state": "default",
+      "commit_date": "2026-07-05T16:53:14-03:00",
+      "subject": "Merge pull request #1 from JesseBrown1980/codex/free-model-possibility-ladder-20260705",
+      "note": "current public default branch"
+    },
+    {
+      "branch": "codex/free-model-possibility-ladder-20260705",
+      "sha": "85d34f8e223d9e026b464832d02ae30dda3c3033",
+      "relationship_to_main": "branch_head_ancestor_of_main",
+      "pr": "#1",
+      "pr_state": "MERGED",
+      "commit_date": "2026-07-05T16:52:37-03:00",
+      "subject": "Merge branch 'main' into codex/free-model-possibility-ladder-20260705",
+      "note": "free-model ladder branch retained after merged PR; branch head includes an extra merge from main"
+    },
+    {
+      "branch": "codex/free-claude-code-receipts-20260705",
+      "sha": "a7e93f5353c843eed0110283eb884487ffa4cbad",
+      "relationship_to_main": "branch_head_ancestor_of_main",
+      "pr": "#2",
+      "pr_state": "MERGED",
+      "commit_date": "2026-07-05T15:51:13-03:00",
+      "subject": "Publish free model possibility ladder receipts",
+      "note": "receipt branch retained after merged PR"
+    }
+  ]
+}

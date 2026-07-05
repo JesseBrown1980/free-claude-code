@@ -1,0 +1,5 @@
+HBI|schema=asolaria.free_claude_code.branch_heads.index.v1|json=0|repo=JesseBrown1980/free-claude-code|created_utc=2026-07-05T19:58:24.927Z
+IDX|0|branch=main|sha=fba4fec36b0bef042f4d277c2cbd33c5cd808293|class=MEASURED_GITHUB|role=default_head
+IDX|1|branch=codex/free-model-possibility-ladder-20260705|sha=85d34f8e223d9e026b464832d02ae30dda3c3033|class=MEASURED_GITHUB|role=retained_merged_pr_branch|pr=1
+IDX|2|branch=codex/free-claude-code-receipts-20260705|sha=a7e93f5353c843eed0110283eb884487ffa4cbad|class=MEASURED_GITHUB|role=retained_merged_pr_branch|pr=2
+IDX|3|fabric_route=/api/free-agents|class=SYSTEM_AFFIRMED|models=5|cost=
